@@ -60,10 +60,15 @@ hr-workforce-analytics-powerbi/
 - Created Age column
 - Documented the data cleaning process
 
+### ✅ Day 3
+- Created the data model
+- Added Age Group calculated column
+- Built core DAX measures
+- Organized measures into a dedicated Measure table
+- Applied formatting to all KPI measures
+
 ## Upcoming Work
 
-- Data Modeling
-- DAX Measures
 - Executive Dashboard
 - Workforce Analysis
 - Attrition & Recruitment Dashboard
@@ -71,4 +76,4 @@ hr-workforce-analytics-powerbi/
 
 ---
 
-**Project Status:** 🚧 In Progress (Day 2 of 7)
+**Project Status:** 🚧 In Progress (Day 3 of 7)
