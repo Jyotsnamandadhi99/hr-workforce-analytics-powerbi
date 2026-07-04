@@ -67,13 +67,19 @@ hr-workforce-analytics-powerbi/
 - Organized measures into a dedicated Measure table
 - Applied formatting to all KPI measures
 
+### ✅ Day 4
+- Designed the Executive Overview dashboard page
+- Created and formatted 8 KPI cards with accent colors
+- Added interactive slicers for Department, Employment Status, and Gender
+- Built key visuals including Department, Gender, Employment Status, Recruitment Sources, and State Distribution
+- Applied a professional dark theme with consistent layout, spacing, and styling
+
 ## Upcoming Work
 
-- Executive Dashboard
 - Workforce Analysis
 - Attrition & Recruitment Dashboard
 - Final Documentation and GitHub Enhancements
 
 ---
 
-**Project Status:** 🚧 In Progress (Day 3 of 7)
+**Project Status:** 🚧 In Progress (Day 4 of 7)
