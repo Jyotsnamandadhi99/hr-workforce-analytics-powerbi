@@ -66,7 +66,10 @@ DIVIDE(
 Calculates the average employee salary.
 
 Average Salary = 
-AVERAGE(HR_Dataset[Salary])
+FORMAT(
+    AVERAGE(HR_Dataset[Salary]),
+    "$#,##0"
+)
 
 ---
 

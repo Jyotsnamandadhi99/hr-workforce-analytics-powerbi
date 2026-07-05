@@ -74,12 +74,18 @@ hr-workforce-analytics-powerbi/
 - Built key visuals including Department, Gender, Employment Status, Recruitment Sources, and State Distribution
 - Applied a professional dark theme with consistent layout, spacing, and styling
 
+### ✅ Day 5
+- Built the Employee Insights dashboard
+- Added demographic KPIs for age, salary, engagement, and satisfaction
+- Created workforce demographic visualizations
+- Added interactive slicers for Department, Employment Status, Gender, and Marital Status
+- Improved dashboard readability with logical sorting and consistent formatting
+
 ## Upcoming Work
 
-- Workforce Analysis
 - Attrition & Recruitment Dashboard
 - Final Documentation and GitHub Enhancements
 
 ---
 
-**Project Status:** 🚧 In Progress (Day 4 of 7)
+**Project Status:** 🚧 In Progress (Day 5 of 7)

@@ -22,6 +22,9 @@ Designed and developed the Executive Overview page of the HR Workforce Analytics
 - #483B6D
 - #FFC978
 - #FB7185
+- #49AA51
+- #666666
+- #D2E45E
 
 ---
 
