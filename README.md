@@ -81,11 +81,18 @@ hr-workforce-analytics-powerbi/
 - Added interactive slicers for Department, Employment Status, Gender, and Marital Status
 - Improved dashboard readability with logical sorting and consistent formatting
 
+### ✅ Day 6
+- Built the Performance & Attrition dashboard
+- Added KPIs for attrition, performance, absences, and attendance
+- Created six analytical HR visualizations
+- Added interactive slicers for Department, Manager, Performance Score, and Recruitment Source
+- Analyzed employee turnover, performance distribution, and termination trends
+- Maintained a consistent dashboard design across all report pages
+
 ## Upcoming Work
 
-- Attrition & Recruitment Dashboard
 - Final Documentation and GitHub Enhancements
 
 ---
 
-**Project Status:** 🚧 In Progress (Day 5 of 7)
+**Project Status:** 🚧 In Progress (Day 6 of 7)
