@@ -1,0 +1,13 @@
+# Power BI backups
+*.pbix~
+*.tmp
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
