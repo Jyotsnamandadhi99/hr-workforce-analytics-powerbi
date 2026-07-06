@@ -1,4 +1,4 @@
-# 📊 HR Workforce Analytics Dashboard
+# HR Workforce Analytics Dashboard
 
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
@@ -6,7 +6,7 @@
 
 ---
 
-## 📖 Overview
+## Overview
 
 The **HR Workforce Analytics Dashboard** is an end-to-end Power BI project that provides interactive insights into workforce demographics, employee performance, recruitment effectiveness, salary trends, attendance, and attrition.
 
@@ -14,7 +14,7 @@ The project demonstrates the complete analytics workflow—from data cleaning an
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Analyze workforce demographics
 - Monitor employee attrition
@@ -26,7 +26,7 @@ The project demonstrates the complete analytics workflow—from data cleaning an
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 **Dataset:** HR-Dataset.xlsx
 
@@ -50,7 +50,7 @@ Key attributes include:
 
 ---
 
-# 🛠 Tools & Technologies
+# Tools & Technologies
 
 - Power BI Desktop
 - Power Query
@@ -61,9 +61,9 @@ Key attributes include:
 
 ---
 
-# 📈 Dashboard Pages
+# Dashboard Pages
 
-## 1️⃣ Executive Overview
+## 1.Executive Overview
 
 Provides an overall snapshot of the workforce.
 
@@ -88,7 +88,7 @@ Provides an overall snapshot of the workforce.
 
 ---
 
-## 2️⃣ Employee Insights
+## 2.Employee Insights
 
 Focuses on workforce demographics.
 
@@ -109,7 +109,7 @@ Focuses on workforce demographics.
 
 ---
 
-## 3️⃣ Performance & Attrition
+## 3.Performance & Attrition
 
 Analyzes employee performance and turnover.
 
@@ -151,7 +151,7 @@ Analyzes employee performance and turnover.
 
 ---
 
-# 🧹 Data Preparation
+# Data Preparation
 
 The dataset was cleaned using **Power Query**.
 
@@ -167,7 +167,7 @@ Performed tasks include:
 
 ---
 
-# 📊 DAX Measures
+# DAX Measures
 
 Key DAX measures include:
 
@@ -185,7 +185,7 @@ Key DAX measures include:
 
 ---
 
-# 📁 Project Structure
+# Project Structure
 
 ```text
 hr-workforce-analytics-powerbi/
@@ -221,9 +221,9 @@ hr-workforce-analytics-powerbi/
 
 ---
 
-# 📅 Development Progress
+# Development Progress
 
-### ✅ Day 1
+### Day 1
 
 - Project initialization
 - Repository setup
@@ -231,7 +231,7 @@ hr-workforce-analytics-powerbi/
 - Business questions
 - Initial README
 
-### ✅ Day 2
+### Day 2
 
 - Imported dataset into Power BI
 - Data profiling
@@ -241,14 +241,14 @@ hr-workforce-analytics-powerbi/
 - Age column creation
 - Data cleaning documentation
 
-### ✅ Day 3
+### Day 3
 
 - Created calculated columns
 - Developed core DAX measures
 - Built Measure table
 - Organized KPI calculations
 
-### ✅ Day 4
+### Day 4
 
 - Designed Executive Overview dashboard
 - Created KPI cards
@@ -256,21 +256,21 @@ hr-workforce-analytics-powerbi/
 - Built Executive visuals
 - Applied dashboard theme
 
-### ✅ Day 5
+### Day 5
 
 - Developed Employee Insights dashboard
 - Built demographic visualizations
 - Added workforce analytics
 - Enhanced dashboard formatting
 
-### ✅ Day 6
+### Day 6
 
 - Developed Performance & Attrition dashboard
 - Built HR performance visuals
 - Added attrition analysis
 - Included performance insights
 
-### ✅ Day 7
+### Day 7
 
 - Final dashboard polishing
 - Layout refinements
@@ -279,7 +279,7 @@ hr-workforce-analytics-powerbi/
 
 ---
 
-# 🚀 Future Enhancements
+# Future Enhancements
 
 - Publish to Power BI Service
 - Row-Level Security (RLS)
@@ -290,7 +290,7 @@ hr-workforce-analytics-powerbi/
 
 ---
 
-# 📚 Documentation
+# Documentation
 
 Detailed project documentation is available in the **documentation/** folder.
 
@@ -306,7 +306,7 @@ Includes:
 
 ---
 
-# 👩‍💻 Author
+# Author
 
 **Jyotsna Mandadhi**
 
@@ -318,4 +318,4 @@ GitHub: https://github.com/JyotsnaMandadhi99
 
 ---
 
-## ⭐ If you found this project useful, consider giving it a Star!
+## If you found this project useful, consider giving it a Star!
