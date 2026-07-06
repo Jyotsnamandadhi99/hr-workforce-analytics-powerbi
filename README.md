@@ -4,6 +4,7 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
+![Dashboard Preview](images/Executive%20Overview.png)
 ---
 
 ## Overview
